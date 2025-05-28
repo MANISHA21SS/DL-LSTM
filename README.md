@@ -209,6 +209,7 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 ### Sample Text Prediction
 
 ![Screenshot (276)](https://github.com/user-attachments/assets/72b51f0f-31c8-4f58-b906-2ee858db709b)
+
 ![Screenshot 2025-05-29 014307](https://github.com/user-attachments/assets/b8282bd1-e2a6-480b-b112-7d3cc7b5a506)
 
 
